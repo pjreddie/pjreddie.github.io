@@ -1,0 +1,28 @@
+.date{
+	float:right;
+	font-style:italic;
+	font-size:.75em;
+    margin-left:2em;
+}
+.project{
+	margin:0 auto;
+	padding:0em 1em;
+}
+.project p{
+	margin-top: .5em;
+}
+.project h3{
+	margin-bottom:.5em;
+}
+
+.project:hover {
+    background: rgb(0, 64, 64); 
+    background: rgba(0, 255, 255, .25);
+}
+.projects .title{
+    padding: 0em 1em;
+}
+.projects{
+    max-width:47em;
+    padding:0em;
+}
