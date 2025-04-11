@@ -123,8 +123,8 @@ I think the little pony resume is probably not the right choice for grad school.
 
 # Find me
 <div id=external>
-<a target=_blank href="https://scholar.google.com/citations?user=TDk_NfkAAAAJ" ><img src="/media/image/gscholar.png" /></a>
-<a target=_blank href="https://github.com/pjreddie" ><img src="/static/logos/github.png" /></a>
-<a target=_blank href="https://bsky.app/profile/pjreddie.bsky.social"><img src="/static/logos/twitter.png" /></a>
-<a target=_blank href="https://www.kaggle.com/users/16295/pjreddie"><img src="/static/logos/kaggle.png" /></a>
+<a target=_blank href="https://scholar.google.com/citations?user=TDk_NfkAAAAJ" ><img src="/static/img/gscholar.png" /></a>
+<a target=_blank href="https://github.com/pjreddie" ><img src="/static/img/github.png" /></a>
+<a target=_blank href="https://bsky.app/profile/pjreddie.bsky.social"><img src="/static/img/twitter.png" /></a>
+<a target=_blank href="https://www.kaggle.com/users/16295/pjreddie"><img src="/static/img/kaggle.png" /></a>
 </div>
