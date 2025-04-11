@@ -113,18 +113,18 @@ I think the little pony resume is probably not the right choice for grad school.
 # I've worked with
 
 <div id=ponies>
-<a target=_blank href=http://uwplse.org/ ><img src="/static/img/plse.png"   ></img></a>
-<a target=_blank href=http://www.zerocater.com ><img src="/static/img/ZeroCater.png"></img></a>
-<a target=_blank href=http://research.google.com/ ><img src="/static/img/gpony.png"></img></a>
-<a target=_blank href=http://kucb.org><img src="/static/img/KUCB.png"></img></a>
-<a target=_blank href=http://www.ibm.com ><img src="/static/img/IBM.png"></img></a>
-<a target=_blank href=http://www.nist.gov ><img src="/static/img/NIST.png" ></img></a>
+<a target=_blank href=http://uwplse.org/ ><img src="/static/img/plse.png" /></a>
+<a target=_blank href=http://www.zerocater.com ><img src="/static/img/ZeroCater.png" /></a>
+<a target=_blank href=http://research.google.com/ ><img src="/static/img/gpony.png" /></a>
+<a target=_blank href=http://kucb.org><img src="/static/img/KUCB.png" /></a>
+<a target=_blank href=http://www.ibm.com ><img src="/static/img/IBM.png" /></a>
+<a target=_blank href=http://www.nist.gov ><img src="/static/img/NIST.png" /></a>
 </div>
 
 # Find me
 <div id=external>
-<a target=_blank href=https://scholar.google.com/citations?user=TDk_NfkAAAAJ ><img src="/media/image/gscholar.png"></img></a>
-<a target=_blank href=https://github.com/pjreddie ><img src="/static/logos/github.png"></img></a>
-<a target=_blank href=https://bsky.app/profile/pjreddie.bsky.social><img src="/static/logos/twitter.png"></img></a>
-<a target=_blank href=https://www.kaggle.com/users/16295/pjreddie><img src="/static/logos/kaggle.png"></img></a>
+<a target=_blank href=https://scholar.google.com/citations?user=TDk_NfkAAAAJ ><img src="/media/image/gscholar.png" /></a>
+<a target=_blank href=https://github.com/pjreddie ><img src="/static/logos/github.png" /></a>
+<a target=_blank href=https://bsky.app/profile/pjreddie.bsky.social><img src="/static/logos/twitter.png" /></a>
+<a target=_blank href=https://www.kaggle.com/users/16295/pjreddie><img src="/static/logos/kaggle.png" /></a>
 </div>
