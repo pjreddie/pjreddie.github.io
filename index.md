@@ -18,7 +18,7 @@ I maintain the [Darknet Neural Network Framework](https://pjreddie.com/darknet/)
 
 Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing with my Alaskan malamute puppy, Kelp!
 
-# Talks and Teaching
+# Talks and teaching
 
 [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/) - University of Washington, Spring 2018
 
