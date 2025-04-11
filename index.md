@@ -18,7 +18,7 @@ I maintain the [Darknet Neural Network Framework](https://pjreddie.com/darknet/)
 
 Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing with my Alaskan malamute puppy, Kelp!
 
-<h1> Talks and Teaching </h1>
+# Talks and Teaching
 
 [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/) - University of Washington, Spring 2018
 
@@ -26,7 +26,7 @@ Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing 
 
 [How computers learn to recognize objects instantly](https://www.ted.com/talks/joseph_redmon_how_a_computer_learns_to_recognize_objects_instantly/discussion?language=en) - TED2017 in Vancouver, Canada
 
-<h1> Publications </h1>
+# Publications 
 
 <div class="paper">
 <h4>Who Let The Dogs Out? Modeling Dog Behavior From Visual Data</h4>
@@ -95,7 +95,8 @@ Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing 
 <div class="break"></div>
 </div>
 
-<h1>What people are saying.</h1>
+# What people are saying
+
 <blockquote>
 ... Either The Least Or Most Employable Person Ever
 <footer>- The Huffington Post</footer>
@@ -108,19 +109,22 @@ He knows how to do the internet.
 I think the little pony resume is probably not the right choice for grad school.
 <footer>- Daniel Scharstein, inventor of the digital sundial</footer>
 </blockquote>
-<h1>I've worked with.</h1>
+
+# I've worked with
+
 <div id=ponies>
-    <a target=_blank href=http://uwplse.org/ ><img src="/static/img/plse.png"   ></img></a>
-    <a target=_blank href=http://www.zerocater.com ><img src="/static/img/ZeroCater.png"></img></a>
-    <a target=_blank href=http://research.google.com/ ><img src="/static/img/gpony.png"></img></a>
-    <a target=_blank href=http://kucb.org><img src="/static/img/KUCB.png"></img></a>
-    <a target=_blank href=http://www.ibm.com ><img src="/static/img/IBM.png"></img></a>
-    <a target=_blank href=http://www.nist.gov ><img src="/static/img/NIST.png" ></img></a>
+<a target=_blank href=http://uwplse.org/ ><img src="/static/img/plse.png"   ></img></a>
+<a target=_blank href=http://www.zerocater.com ><img src="/static/img/ZeroCater.png"></img></a>
+<a target=_blank href=http://research.google.com/ ><img src="/static/img/gpony.png"></img></a>
+<a target=_blank href=http://kucb.org><img src="/static/img/KUCB.png"></img></a>
+<a target=_blank href=http://www.ibm.com ><img src="/static/img/IBM.png"></img></a>
+<a target=_blank href=http://www.nist.gov ><img src="/static/img/NIST.png" ></img></a>
 </div>
-<h1>Find me.</h1>
+
+# Find me
 <div id=external>
-    <a target=_blank href=https://scholar.google.com/citations?user=TDk_NfkAAAAJ ><img src="/media/image/gscholar.png"></img></a>
-    <a target=_blank href=https://github.com/pjreddie ><img src="/static/logos/github.png"></img></a>
-    <a target=_blank href=https://bsky.app/profile/pjreddie.bsky.social><img src="/static/logos/twitter.png"></img></a>
-    <a target=_blank href=https://www.kaggle.com/users/16295/pjreddie><img src="/static/logos/kaggle.png"></img></a>
+<a target=_blank href=https://scholar.google.com/citations?user=TDk_NfkAAAAJ ><img src="/media/image/gscholar.png"></img></a>
+<a target=_blank href=https://github.com/pjreddie ><img src="/static/logos/github.png"></img></a>
+<a target=_blank href=https://bsky.app/profile/pjreddie.bsky.social><img src="/static/logos/twitter.png"></img></a>
+<a target=_blank href=https://www.kaggle.com/users/16295/pjreddie><img src="/static/logos/kaggle.png"></img></a>
 </div>
