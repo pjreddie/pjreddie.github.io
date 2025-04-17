@@ -2,6 +2,7 @@
 title: Nightmare
 description: "Use Darknet's black magic to conjure ghosts, ghouls, and wild badgermoles. But be warned, ye who enter here: no one is safe in the land of nightmares."
 layout: darknet
+logo: /static/img/nightmare.png
 permalink: /darknet/nightmare/
 ---
 <style>
