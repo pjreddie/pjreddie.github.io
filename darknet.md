@@ -7,17 +7,7 @@ permalink: /darknet/
 Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation. You can find the source on [GitHub](https://github.com/pjreddie/darknet) or you can read more about what Darknet can do right here:
 
 {% for page in site.darknet %}
-<a href="{{ page.url }}">
-<div class=post>
-{% if page.logo %}
-<img class=logo src="{{ page.logo }}"></img>
-{% endif %}
-<h3>{{ page.title }}</h3>
-{% if page.description %}
-<p>{{ page.description }}</p>
-{% endif %}
-</div>
-</a>
+{% include darknet_preview.html page=page %}
 {% endfor %}
 
 ## Cite ##
