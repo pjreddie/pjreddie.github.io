@@ -2,6 +2,7 @@
 title: ImageNet Classification
 description: Classify images with popular models like ResNet and ResNeXt.
 layout: darknet
+order: 2
 permalink: /darknet/imagenet/
 ---
 

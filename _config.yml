@@ -1,9 +1,3 @@
 collections:
     darknet:
         output: true
-        order:
-            - install/install.md
-            - yolo/yolo.md
-            - imagenet/imagenet.md
-            - nightmare/nightmare.md
-            - rnns/rnns.md

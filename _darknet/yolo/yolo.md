@@ -3,6 +3,7 @@ title: "YOLO: Real-Time Object Detection"
 description: You only look once (YOLO) is a state-of-the-art, real-time object detection system.
 layout: darknet
 logo: /static/img/yologo.png
+order: 1
 permalink: /darknet/yolo/
 ---
 

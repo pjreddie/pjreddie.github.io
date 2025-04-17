@@ -2,6 +2,7 @@
 title: Installing Darknet
 description: Darknet is easy to install and run. This post will guide you through it.
 layout: darknet
+order: 0
 permalink: /darknet/install/
 ---
 Darknet is easy to install with only two optional dependancies:
