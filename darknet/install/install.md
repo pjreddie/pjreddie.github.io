@@ -10,7 +10,7 @@ Darknet is easy to install with only two optional dependancies:
 
 Both are optional so lets start by just installing the base system. I've only tested this on Linux and Mac computers. If it doesn't work for you, email me or something?
 
-##Installing The Base System##
+## Installing The Base System ##
 First clone the Darknet git repository [here](https://github.com/pjreddie/darknet). This can be accomplished by:
 
     git clone https://github.com/pjreddie/darknet.git
@@ -36,7 +36,7 @@ You should get the output:
 
 Great! Now check out the cool things you can do with darknet [here](https://pjreddie.com/darknet/).
 
-##<a name="cuda"></a>Compiling With CUDA##
+## <a name="cuda"></a>Compiling With CUDA ##
 
 Darknet on the CPU is fast but it's like 500 times faster on GPU! You'll have to have an [Nvidia GPU](https://developer.nvidia.com/cuda-gpus) and you'll have to install [CUDA](https://developer.nvidia.com/cuda-downloads). I won't go into CUDA installation in detail because it is terrifying.
 
@@ -54,7 +54,7 @@ If you compiled using CUDA but want to do CPU computation for whatever reason yo
 
 Enjoy your new, super fast neural networks!
 
-##<a name="opencv"></a>Compiling With OpenCV##
+## <a name="opencv"></a>Compiling With OpenCV ##
 
 By default, Darknet uses [`stb_image.h`](https://github.com/nothings/stb/blob/master/stb_image.h) for image loading. If you want more support for weird formats (like CMYK jpegs, thanks Obama) you can use [OpenCV](http://opencv.org/) instead! OpenCV also allows you to view images and detections without having to save them to disk.
 
