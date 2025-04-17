@@ -28,7 +28,7 @@ If you use Darknet in your research please cite it:
 @misc{darknet13,
   author =   {Joseph Redmon},
   title =    {Darknet: Open Source Neural Networks in C},
-  howpublished = {\url{http://pjreddie.com/darknet/}},
+  howpublished = {\url{https://pjreddie.com/darknet/}},
   year = {2013--2016}
 }
 ```
