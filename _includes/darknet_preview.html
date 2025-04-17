@@ -1,11 +1,11 @@
 <a href="{{ include.page.url }}">
-<div class=post>
-{% if include.page.logo %}
-<img class=logo src="{{ include.page.logo }}"></img>
-{% endif %}
-<h3>{{ include.page.title }}</h3>
-{% if include.page.description %}
-<p>{{ include.page.description }}</p>
-{% endif %}
-</div>
+    <div class=post>
+        {% if include.page.logo %}
+        <img class=logo src="{{ include.page.logo }}"></img>
+        {% endif %}
+        <h3>{{ include.page.title }}</h3>
+        {% if include.page.description %}
+            <p>{{ include.page.description }}</p>
+        {% endif %}
+    </div>
 </a>
