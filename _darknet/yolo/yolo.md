@@ -56,7 +56,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>41.2</td>
 <td>-</td>
 <td>46</td>
-<td colspan = "2"><a href=https://arxiv.org/abs/1512.02325 >link</a></td>
+<td colspan = "2"><a href="https://arxiv.org/abs/1512.02325">link</a></td>
 </tr>
  <tr>
 <td>SSD500</td>
@@ -65,7 +65,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>46.5</td>
 <td>-</td>
 <td>19</td>
-<td colspan="2"><a href=https://arxiv.org/abs/1512.02325 >link</a></td>
+<td colspan="2"><a href="https://arxiv.org/abs/1512.02325">link</a></td>
 </tr>
 
 <tr>
@@ -75,8 +75,8 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>48.1</td>
 <td>62.94 Bn</td>
 <td>40</td>
-<td><a href=https://github.com/pjreddie/darknet/blob/master/cfg/yolov2.cfg>cfg</a></td>
-<td><a href=https://pjreddie.com/media/files/yolov2.weights>weights</a></td>
+<td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/yolov2.cfg">cfg</a></td>
+<td><a href="https://pjreddie.com/media/files/yolov2.weights">weights</a></td>
 </tr>
 <tr>
 <td>Tiny YOLO</td>
@@ -85,8 +85,8 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>23.7</td>
 <td>5.41 Bn</td>
 <td>244</td>
-<td><a href=https://github.com/pjreddie/darknet/blob/master/cfg/yolov2-tiny.cfg>cfg</a></td>
-<td><a href=https://pjreddie.com/media/files/yolov2-tiny.weights>weights</a></td>
+<td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/yolov2-tiny.cfg">cfg</a></td>
+<td><a href="https://pjreddie.com/media/files/yolov2-tiny.weights">weights</a></td>
 </tr>
 
 <tr>
@@ -101,7 +101,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>45.4</td>
 <td>-</td>
 <td>16</td>
-<td colspan = "2"><a href=https://arxiv.org/abs/1701.06659 >link</a></td>
+<td colspan = "2"><a href="https://arxiv.org/abs/1701.06659">link</a></td>
 </tr>
 <tr>
 <td>DSSD321</td>
@@ -110,7 +110,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>46.1</td>
 <td>-</td>
 <td>12</td>
-<td colspan = "2"><a href=https://arxiv.org/abs/1701.06659 >link</a></td>
+<td colspan = "2"><a href="https://arxiv.org/abs/1701.06659">link</a></td>
 </tr>
 <tr>
 <td>R-FCN</td>
@@ -119,7 +119,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>51.9</td>
 <td>-</td>
 <td>12</td>
-<td colspan = "2"><a href=https://arxiv.org/abs/1605.06409 >link</a></td>
+<td colspan = "2"><a href="https://arxiv.org/abs/1605.06409">link</a></td>
 </tr>
 <tr>
 <td>SSD513</td>
@@ -128,7 +128,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>50.4</td>
 <td>-</td>
 <td>8</td>
-<td colspan = "2"><a href=https://arxiv.org/abs/1701.06659 >link</a></td>
+<td colspan = "2"><a href="https://arxiv.org/abs/1701.06659">link</a></td>
 </tr>
 <tr>
 <td>DSSD513</td>
@@ -137,7 +137,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>53.3</td>
 <td>-</td>
 <td>6</td>
-<td colspan = "2"><a href=https://arxiv.org/abs/1701.06659 >link</a></td>
+<td colspan = "2"><a href="https://arxiv.org/abs/1701.06659">link</a></td>
 </tr>
 <tr>
 <td>FPN FRCN</td>
@@ -146,7 +146,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>59.1</td>
 <td>-</td>
 <td>6</td>
-<td colspan = "2"><a href=https://arxiv.org/abs/1612.03144 >link</a></td>
+<td colspan = "2"><a href="https://arxiv.org/abs/1612.03144">link</a></td>
 </tr>
 <tr>
 <td>Retinanet-50-500</td>
@@ -155,7 +155,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>50.9</td>
 <td>-</td>
 <td>14</td>
-<td colspan = "2"><a href=https://arxiv.org/abs/1708.02002 >link</a></td>
+<td colspan = "2"><a href="https://arxiv.org/abs/1708.02002">link</a></td>
 </tr>
 <tr>
 <td>Retinanet-101-500</td>
@@ -164,7 +164,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>53.1</td>
 <td>-</td>
 <td>11</td>
-<td colspan = "2"><a href=https://arxiv.org/abs/1708.02002 >link</a></td>
+<td colspan = "2"><a href="https://arxiv.org/abs/1708.02002">link</a></td>
 </tr>
 <tr>
 <td>Retinanet-101-800</td>
@@ -173,7 +173,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>57.5</td>
 <td>-</td>
 <td>5</td>
-<td colspan = "2"><a href=https://arxiv.org/abs/1708.02002 >link</a></td>
+<td colspan = "2"><a href="https://arxiv.org/abs/1708.02002">link</a></td>
 </tr>
 <tr>
 <td>YOLOv3-320</td>
@@ -182,8 +182,8 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>51.5</td>
 <td>38.97 Bn</td>
 <td>45</td>
-<td><a href=https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg>cfg</a></td>
-<td><a href=https://pjreddie.com/media/files/yolov3.weights>weights</a></td>
+<td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg">cfg</a></td>
+<td><a href="https://pjreddie.com/media/files/yolov3.weights">weights</a></td>
 </tr>
 <tr>
 <td>YOLOv3-416</td>
@@ -192,8 +192,8 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>55.3</td>
 <td>65.86 Bn</td>
 <td>35</td>
-<td><a href=https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg>cfg</a></td>
-<td><a href=https://pjreddie.com/media/files/yolov3.weights>weights</a></td>
+<td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg">cfg</a></td>
+<td><a href="https://pjreddie.com/media/files/yolov3.weights">weights</a></td>
 </tr>
 <tr>
 <td>YOLOv3-608</td>
@@ -202,8 +202,8 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>57.9</td>
 <td>140.69 Bn</td>
 <td>20</td>
-<td><a href=https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg>cfg</a></td>
-<td><a href=https://pjreddie.com/media/files/yolov3.weights>weights</a></td>
+<td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg">cfg</a></td>
+<td><a href="https://pjreddie.com/media/files/yolov3.weights">weights</a></td>
 </tr>
 <tr>
 <td>YOLOv3-tiny</td>
@@ -212,8 +212,8 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>33.1</td>
 <td>5.56 Bn</td>
 <td>220</td>
-<td><a href=https://github.com/pjreddie/darknet/blob/master/cfg/yolov3-tiny.cfg>cfg</a></td>
-<td><a href=https://pjreddie.com/media/files/yolov3-tiny.weights>weights</a></td>
+<td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/yolov3-tiny.cfg">cfg</a></td>
+<td><a href="https://pjreddie.com/media/files/yolov3-tiny.weights">weights</a></td>
 </tr>
 <tr>
 <td>YOLOv3-spp</td>
@@ -222,8 +222,8 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>60.6</td>
 <td>141.45 Bn</td>
 <td>20</td>
-<td><a href=https://github.com/pjreddie/darknet/blob/master/cfg/yolov3-spp.cfg>cfg</a></td>
-<td><a href=https://pjreddie.com/media/files/yolov3-spp.weights>weights</a></td>
+<td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/yolov3-spp.cfg">cfg</a></td>
+<td><a href="https://pjreddie.com/media/files/yolov3-spp.weights">weights</a></td>
 </tr>
 
 </table>
