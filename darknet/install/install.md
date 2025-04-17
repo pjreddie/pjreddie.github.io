@@ -1,5 +1,7 @@
 ---
+title: Installing Darknet
 permalink: /darknet/install/
+layout: darknet
 ---
 Darknet is easy to install with only two optional dependancies:
 
