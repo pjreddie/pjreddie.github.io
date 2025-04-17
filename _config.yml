@@ -4,3 +4,5 @@ collections:
         order:
             - install/install.md
             - yolo/yolo.md
+            - imagenet/imagenet.md
+            - nightmare/nightmare.md
