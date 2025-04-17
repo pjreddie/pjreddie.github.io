@@ -2,7 +2,8 @@
 title: "YOLO: Real-Time Object Detection"
 description: You only look once (YOLO) is a state-of-the-art, real-time object detection system.
 layout: darknet
-permalink: /darknet/yolo/
+logo: /static/img
+permalink: /darknet/yolo/yologo.png
 ---
 
 You only look once (YOLO) is a state-of-the-art, real-time object detection system. On a Pascal Titan X it processes images at 30 FPS and has a mAP of 57.9% on COCO test-dev.
