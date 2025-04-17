@@ -35,6 +35,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 
 ## Performance on the COCO Dataset ##
 
+<div>
 <table>
   <tr>
     <th style="text-align:left;">Model</th>
@@ -154,7 +155,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>50.9</td>
 <td>-</td>
 <td>14</td>
-<td colspan = "2"><a https://arxiv.org/abs/1708.02002 >link</a></td>
+<td colspan = "2"><a href=https://arxiv.org/abs/1708.02002 >link</a></td>
 </tr>
 <tr>
 <td>Retinanet-101-500</td>
@@ -163,7 +164,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>53.1</td>
 <td>-</td>
 <td>11</td>
-<td colspan = "2"><a https://arxiv.org/abs/1708.02002 >link</a></td>
+<td colspan = "2"><a href=https://arxiv.org/abs/1708.02002 >link</a></td>
 </tr>
 <tr>
 <td>Retinanet-101-800</td>
@@ -172,7 +173,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>57.5</td>
 <td>-</td>
 <td>5</td>
-<td colspan = "2"><a https://arxiv.org/abs/1708.02002 >link</a></td>
+<td colspan = "2"><a href=https://arxiv.org/abs/1708.02002 >link</a></td>
 </tr>
 <tr>
 <td>YOLOv3-320</td>
@@ -226,6 +227,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 </tr>
 
 </table>
+</div>
 
 ## How It Works ##
 
