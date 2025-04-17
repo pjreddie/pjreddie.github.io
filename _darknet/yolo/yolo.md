@@ -54,7 +54,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>41.2</td>
 <td>-</td>
 <td>46</td>
-<td colspan = "2"><a href =https://arxiv.org/abs/1512.02325 >link</a></td>
+<td colspan = "2"><a href=https://arxiv.org/abs/1512.02325 >link</a></td>
 </tr>
  <tr>
 <td>SSD500</td>
@@ -63,7 +63,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>46.5</td>
 <td>-</td>
 <td>19</td>
-<td colspan="2"><a href =https://arxiv.org/abs/1512.02325 >link</a></td>
+<td colspan="2"><a href=https://arxiv.org/abs/1512.02325 >link</a></td>
 </tr>
 
 <tr>
@@ -99,7 +99,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>45.4</td>
 <td>-</td>
 <td>16</td>
-<td colspan = "2"><a href =https://arxiv.org/abs/1701.06659 >link</a></td>
+<td colspan = "2"><a href=https://arxiv.org/abs/1701.06659 >link</a></td>
 </tr>
 <tr>
 <td>DSSD321</td>
@@ -108,7 +108,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>46.1</td>
 <td>-</td>
 <td>12</td>
-<td colspan = "2"><a href =https://arxiv.org/abs/1701.06659 >link</a></td>
+<td colspan = "2"><a href=https://arxiv.org/abs/1701.06659 >link</a></td>
 </tr>
 <tr>
 <td>R-FCN</td>
@@ -117,7 +117,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>51.9</td>
 <td>-</td>
 <td>12</td>
-<td colspan = "2"><a href =https://arxiv.org/abs/1605.06409 >link</a></td>
+<td colspan = "2"><a href=https://arxiv.org/abs/1605.06409 >link</a></td>
 </tr>
 <tr>
 <td>SSD513</td>
@@ -126,7 +126,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>50.4</td>
 <td>-</td>
 <td>8</td>
-<td colspan = "2"><a href =https://arxiv.org/abs/1701.06659 >link</a></td>
+<td colspan = "2"><a href=https://arxiv.org/abs/1701.06659 >link</a></td>
 </tr>
 <tr>
 <td>DSSD513</td>
@@ -135,7 +135,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>53.3</td>
 <td>-</td>
 <td>6</td>
-<td colspan = "2"><a href =https://arxiv.org/abs/1701.06659 >link</a></td>
+<td colspan = "2"><a href=https://arxiv.org/abs/1701.06659 >link</a></td>
 </tr>
 <tr>
 <td>FPN FRCN</td>
@@ -144,7 +144,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>59.1</td>
 <td>-</td>
 <td>6</td>
-<td colspan = "2"><a href =https://arxiv.org/abs/1612.03144 >link</a></td>
+<td colspan = "2"><a href=https://arxiv.org/abs/1612.03144 >link</a></td>
 </tr>
 <tr>
 <td>Retinanet-50-500</td>
