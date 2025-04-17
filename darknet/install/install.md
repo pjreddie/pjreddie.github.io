@@ -68,4 +68,4 @@ You're done! To try it out, first re-`make` the project. Then use the `imtest` r
 
 If you get a bunch of windows with eagles in them you've succeeded! They may look like:
 
-![][eagle.png]
+![results screenshot](eagle.png)
