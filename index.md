@@ -12,9 +12,11 @@ display:inline;
 
 # Welcome to my website!
 
-I am a graduate student advised by [Ali Farhadi](https://homes.cs.washington.edu/~ali/index.html). I work on computer vision.
+I am a research scientist at [Ai2](https://allenai.org/) working on [machine learning for the environment](https://allenai.org/earth-system).
 
-I maintain the [Darknet Neural Network Framework](https://pjreddie.com/darknet/), a primer on [tactics in Coq](https://pjreddie.com/coq-tactics/), occasionally work on [research](https://pjreddie.com/publications/), and try to stay off [twitter](https://twitter.com/pjreddie). 
+I was a graduate student advised by [Ali Farhadi](https://homes.cs.washington.edu/~ali/index.html). I work on computer vision.
+
+I maintain the [Darknet Neural Network Framework](https://pjreddie.com/darknet/), a primer on [tactics in Coq](https://pjreddie.com/coq-tactics/), occasionally work on [research](https://pjreddie.com/), and try to stay off [twitter](https://twitter.com/pjreddie). 
 
 Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing with my Alaskan malamute puppy, Kelp!
 
