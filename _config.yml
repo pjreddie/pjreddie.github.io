@@ -1,3 +1,6 @@
 collections:
     darknet:
         output: true
+        order:
+            - install/install.md
+            - yolo/yolo.md
