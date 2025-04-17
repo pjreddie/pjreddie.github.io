@@ -1,3 +1,6 @@
+---
+permalink: /coq-tactics/
+---
 <div class="main coqindex">
         <p id="dnlogo">
             <img src="/static/img/coq.png">
