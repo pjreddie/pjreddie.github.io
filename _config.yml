@@ -1,3 +1,11 @@
 collections:
     darknet:
         output: true
+defaults:
+    -
+        scope:
+            path: ""
+            type: "darknet"
+        values:
+            layout: "darknet"
+            order: 100
