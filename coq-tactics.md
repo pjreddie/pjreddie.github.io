@@ -1,4 +1,6 @@
 ---
+title: "Coq Tactics Index"
+layout: default
 permalink: /coq-tactics/
 ---
 <div class="main coqindex">
