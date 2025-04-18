@@ -1,5 +1,6 @@
 ---
 title: "Joseph Redmon - Survival Strategies for the Robot Rebellion"
+layout: default
 permalink: /
 ---
 <style>
