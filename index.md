@@ -1,3 +1,7 @@
+---
+title: "Joseph Redmon - Survival Strategies for the Robot Rebellion"
+permalink: /
+---
 <style>
 #ponies img, #external img{
 display:inline;
