@@ -25,7 +25,7 @@ This is me copying those people who copied those other people who had a good ide
 
 ## Have A Nightmare With Darknet ##
 
-If you don't have Darknet installed, [do that first!](http://pjreddie.com/darknet/install/) To have our nightmare we will use a VGG-16 pretrained model. However, we don't need the whole model, just the convolutional layers, so we can use the `vgg-conv.cfg` file (which you should already have in the `cfg/` subdirectory). You will need to download the pretrained weights [here (57 MB)](http://pjreddie.com/media/files/vgg-conv.weights).
+If you don't have Darknet installed, [do that first!](http://pjreddie.com/darknet/install/) To have our nightmare we will use a VGG-16 pretrained model. However, we don't need the whole model, just the convolutional layers, so we can use the `vgg-conv.cfg` file (which you should already have in the `cfg/` subdirectory). You will need to download the pretrained weights [here (57 MB)](http://data.pjreddie.com/files/vgg-conv.weights).
 
 Now we can generate the scream image you saw in the first paragraph:
 
@@ -73,7 +73,7 @@ There is a LOT here to play with! Here's an example with multiple rounds and a s
 
 VGG-16 is a very large model, if you are running out of memory, try using this model instead!
 
-The cfg file is in the `cfg/` subdirectory (or [here](https://github.com/pjreddie/darknet/blob/master/cfg/jnet-conv.cfg)), you can download the weights [here (72 MB)](http://pjreddie.com/media/files/jnet-conv.weights).
+The cfg file is in the `cfg/` subdirectory (or [here](https://github.com/pjreddie/darknet/blob/master/cfg/jnet-conv.cfg)), you can download the weights [here (72 MB)](http://data.pjreddie.com/files/jnet-conv.weights).
 
     ./darknet nightmare cfg/jnet-conv.cfg jnet-conv.weights \
     data/yo.jpg 11 -rounds 4 -range 3

@@ -76,7 +76,7 @@ Enough chit-chat, let's impersonate some people!!
 
 Some big spoilers here! For example, Jon is not a "purple girl", so I guess that's good?
 
-To generate this text you have to download this weight file: [grrm.weights (36 MB)](https://pjreddie.com/media/files/grrm.weights). Then run this command:
+To generate this text you have to download this weight file: [grrm.weights (36 MB)](https://data.pjreddie.com/files/grrm.weights). Then run this command:
 
     ./darknet rnn generate cfg/rnn.cfg grrm.weights -srand 0 -seed JON
 
@@ -150,7 +150,7 @@ Wales. Enter QUEEN, and MISTRESS PAGE
                                                                Exit
 </pre>
 
-Weight file: [shakespeare.weights](https://pjreddie.com/media/files/shakespeare.weights)
+Weight file: [shakespeare.weights](https://data.pjreddie.com/files/shakespeare.weights)
 
 To generate this text run:
 
@@ -174,7 +174,7 @@ This model was trained on the complete works of Shakespeare in a single file: [s
 >
 >"Yes, I must do so. You won't do it, but I can't make you the greatest numerous state of having been on the other, boy. He knew it how they got it at the point of view with which he saw that the candles remained silent, and he had always happened to the enemy of a complicated. The superiors of them where she was continually conscious of his only desire to start from the field of battle air, and a weak indignation on the sleigh.
 
-Weight file: [tolstoy.weights](https://pjreddie.com/media/files/tolstoy.weights)
+Weight file: [tolstoy.weights](https://data.pjreddie.com/files/tolstoy.weights)
 
 To generate this text run:
 
@@ -190,7 +190,7 @@ To generate this text run:
 >
 >But the relation of the possibility of all objects of experience, and consequently not according to the laws of nature, which he had not been said, it is only the possibility of the object thereof, as the form in the mere estimate of a supreme way in which they are thought by means of any intuition of the moral law, reason is represented as a duty, that therefore no object to empirical reason has been understood about the influence on the judgement of reason, and as such they are extended of the subject in the synthesis of imagination, and which is independent of that which happens).
 
-Weight file: [kant.weights](https://pjreddie.com/media/files/kant.weights)
+Weight file: [kant.weights](https://data.pjreddie.com/files/kant.weights)
 
 To generate the above text, run:
 

@@ -77,7 +77,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>62.94 Bn</td>
 <td>40</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/yolov2.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/yolov2.weights">weights</a></td>
+<td><a href="https://data.pjreddie.com/files/yolov2.weights">weights</a></td>
 </tr>
 <tr>
 <td>Tiny YOLO</td>
@@ -87,7 +87,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>5.41 Bn</td>
 <td>244</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/yolov2-tiny.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/yolov2-tiny.weights">weights</a></td>
+<td><a href="https://data.pjreddie.com/files/yolov2-tiny.weights">weights</a></td>
 </tr>
 
 <tr>
@@ -184,7 +184,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>38.97 Bn</td>
 <td>45</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/yolov3.weights">weights</a></td>
+<td><a href="https://data.pjreddie.com/files/yolov3.weights">weights</a></td>
 </tr>
 <tr>
 <td>YOLOv3-416</td>
@@ -194,7 +194,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>65.86 Bn</td>
 <td>35</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/yolov3.weights">weights</a></td>
+<td><a href="https://data.pjreddie.com/files/yolov3.weights">weights</a></td>
 </tr>
 <tr>
 <td>YOLOv3-608</td>
@@ -204,7 +204,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>140.69 Bn</td>
 <td>20</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/yolov3.weights">weights</a></td>
+<td><a href="https://data.pjreddie.com/files/yolov3.weights">weights</a></td>
 </tr>
 <tr>
 <td>YOLOv3-tiny</td>
@@ -214,7 +214,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>5.56 Bn</td>
 <td>220</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/yolov3-tiny.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/yolov3-tiny.weights">weights</a></td>
+<td><a href="https://data.pjreddie.com/files/yolov3-tiny.weights">weights</a></td>
 </tr>
 <tr>
 <td>YOLOv3-spp</td>
@@ -224,7 +224,7 @@ YOLOv3 is extremely fast and accurate. In mAP measured at .5 IOU YOLOv3 is on pa
 <td>141.45 Bn</td>
 <td>20</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/yolov3-spp.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/yolov3-spp.weights">weights</a></td>
+<td><a href="https://data.pjreddie.com/files/yolov3-spp.weights">weights</a></td>
 </tr>
 
 </table>
@@ -256,7 +256,7 @@ Easy!
 
 You already have the config file for YOLO in the `cfg/` subdirectory. You will have to download the pre-trained weight file [here (237 MB)](/static/files/yolov3.weights). Or just run this:
 
-    wget https://pjreddie.com/media/files/yolov3.weights
+    wget https://data.pjreddie.com/files/yolov3.weights
 
 Then run the detector!
 
@@ -325,7 +325,7 @@ So that's obviously not super useful but you can set it to different values to c
 
 We have a very small model as well for constrained environments, `yolov3-tiny`. To use this model, first download the weights:
 
-    wget https://pjreddie.com/media/files/yolov3-tiny.weights
+    wget https://data.pjreddie.com/files/yolov3-tiny.weights
 
 Then run the detector with the tiny config file and weights:
 
@@ -409,7 +409,7 @@ You should replace `<path-to-voc>` with the directory where you put the VOC data
 
 For training we use convolutional weights that are pre-trained on Imagenet. We use weights from the [darknet53](/darknet/imagenet/#darknet53) model. You can just download the weights for the convolutional layers [here (76 MB)](/static/files/darknet53.conv.74).
 
-    wget https://pjreddie.com/media/files/darknet53.conv.74
+    wget https://data.pjreddie.com/files/darknet53.conv.74
 
 
 ### Train The Model ###
@@ -471,7 +471,7 @@ If you want to stop and restart training from a checkpoint:
 
 ## <a name=openimages></a> YOLOv3 on the Open Images dataset ##
 
-    wget https://pjreddie.com/media/files/yolov3-openimages.weights
+    wget https://data.pjreddie.com/files/yolov3-openimages.weights
 
     ./darknet detector test cfg/openimages.data cfg/yolov3-openimages.cfg yolov3-openimages.weights
 
