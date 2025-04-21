@@ -344,8 +344,8 @@ margin:0em auto 3em; font-size:1em;
 <script src='/static/js/tablesort.js'></script>
 
 <!-- Include sort types you need -->
-<script src='/static/tablesort.number.js'></script>
-<script src='/static/tablesort.filesize.js'></script>
+<script src='/static/js/tablesort.number.js'></script>
+<script src='/static/js/tablesort.filesize.js'></script>
 
 <script>
   new Tablesort(document.getElementById('compare'));
