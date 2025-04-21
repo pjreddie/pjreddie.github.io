@@ -15,7 +15,7 @@ Here are the commands to install Darknet, download a classification weights file
     git clone https://github.com/pjreddie/darknet.git
     cd darknet
     make
-    wget https://pjreddie.com/media/files/darknet19.weights
+    wget https://data.pjreddie.com/files/darknet19.weights
     ./darknet classifier predict cfg/imagenet1k.data cfg/darknet19.cfg darknet19.weights data/dog.jpg
 
 This example uses the Darknet19 model, you can read more about it [below](#darknet19). After running this command you should see the following output:
@@ -97,7 +97,7 @@ First you need to download the validation images, and the cls-loc annotations. Y
 
 Now we have the images and the annotations but we need to label the images so Darknet can evaluate its predictions. We do that using this bash [script](https://github.com/pjreddie/darknet/blob/master/scripts/imagenet_label.sh). It's already in your `scripts/` subdirectory. We can just get it again though and run it:
 
-    wget https://pjreddie.com/media/files/imagenet_label.sh
+    wget https://data.pjreddie.com/files/imagenet_label.sh
     bash imagenet_label.sh
 
 This will generate two things: a directory called `labelled/` which contains renamed symbolic links to the images, and a file called `inet.val.list` which contains a list of the paths of the labelled images. We need to move this file to the `data/` subdirectory in Darknet:
@@ -158,7 +158,7 @@ margin:0em auto 3em; font-size:1em;
 <td>3.1 ms</td>
 <td>0.29 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/alexnet.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/alexnet.weights">238 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/alexnet.weights">238 MB</a></td>
 </tr>
 
  <tr>
@@ -169,7 +169,7 @@ margin:0em auto 3em; font-size:1em;
 <td style="font-weight:bold;">2.9 ms</td>
 <td style="font-weight:bold;">0.14 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/darknet.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/darknet.weights">28 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/darknet.weights">28 MB</a></td>
 </tr>
 
  <tr>
@@ -180,7 +180,7 @@ margin:0em auto 3em; font-size:1em;
 <td>9.4 ms</td>
 <td>4.36 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/vgg-16.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/vgg-16.weights">528 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/vgg-16.weights">528 MB</a></td>
 </tr>
 
  <tr>
@@ -191,7 +191,7 @@ margin:0em auto 3em; font-size:1em;
 <td>4.8 ms</td>
 <td>0.97 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/extraction.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/extraction.weights">90 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/extraction.weights">90 MB</a></td>
 </tr>
 
  <tr>
@@ -202,7 +202,7 @@ margin:0em auto 3em; font-size:1em;
 <td>6.2 ms</td>
 <td>0.87 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/darknet19.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/darknet19.weights">80 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/darknet19.weights">80 MB</a></td>
 </tr>
 
  <tr>
@@ -213,7 +213,7 @@ margin:0em auto 3em; font-size:1em;
 <td>11.0 ms</td>
 <td>2.96 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/darknet19_448.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/darknet19_448.weights">80 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/darknet19_448.weights">80 MB</a></td>
 </tr>
 
  <tr>
@@ -224,7 +224,7 @@ margin:0em auto 3em; font-size:1em;
 <td>4.6 ms</td>
 <td>0.57 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/resnet18.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/resnet18.weights">44 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/resnet18.weights">44 MB</a></td>
 </tr>
 
  <tr>
@@ -235,7 +235,7 @@ margin:0em auto 3em; font-size:1em;
 <td>7.1 ms</td>
 <td>1.11 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/resnet34.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/resnet34.weights">83 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/resnet34.weights">83 MB</a></td>
 </tr>
 
  <tr>
@@ -246,7 +246,7 @@ margin:0em auto 3em; font-size:1em;
 <td>11.4 ms</td>
 <td>1.13 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/resnet50.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/resnet50.weights">87 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/resnet50.weights">87 MB</a></td>
 </tr>
 
 
@@ -258,7 +258,7 @@ margin:0em auto 3em; font-size:1em;
 <td>20.0 ms</td>
 <td>2.23 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/resnet101.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/resnet101.weights">160 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/resnet101.weights">160 MB</a></td>
 </tr>
 
  <tr>
@@ -269,7 +269,7 @@ margin:0em auto 3em; font-size:1em;
 <td>28.6 ms</td>
 <td>3.31 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/resnet152.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/resnet152.weights">220 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/resnet152.weights">220 MB</a></td>
 </tr>
 
  <tr>
@@ -280,7 +280,7 @@ margin:0em auto 3em; font-size:1em;
 <td>24.2 ms</td>
 <td>1.20 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/resnext50.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/resnext50.weights">220 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/resnext50.weights">220 MB</a></td>
 </tr>
 
  <tr>
@@ -291,7 +291,7 @@ margin:0em auto 3em; font-size:1em;
 <td>58.7 ms</td>
 <td>2.24 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/resnext101-32x4d.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/resnext101-32x4d.weights">159 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/resnext101-32x4d.weights">159 MB</a></td>
 </tr>
 
  <tr>
@@ -302,7 +302,7 @@ margin:0em auto 3em; font-size:1em;
 <td>73.8 ms</td>
 <td>3.31 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/resnext152-32x4d.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/resnext152-32x4d.weights">217 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/resnext152-32x4d.weights">217 MB</a></td>
 </tr>
 
  <tr>
@@ -313,7 +313,7 @@ margin:0em auto 3em; font-size:1em;
 <td>32.6 ms</td>
 <td>1.38 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/densenet201.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/densenet201.weights">66 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/densenet201.weights">66 MB</a></td>
 </tr>
 
 <tr>
@@ -324,7 +324,7 @@ margin:0em auto 3em; font-size:1em;
 <td>13.7 ms</td>
 <td>2.11 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/darknet53.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/darknet53.weights">159 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/darknet53.weights">159 MB</a></td>
 </tr>
 
 <tr>
@@ -335,15 +335,17 @@ margin:0em auto 3em; font-size:1em;
 <td>26.3 ms</td>
 <td>7.21 s</td>
 <td><a href="https://github.com/pjreddie/darknet/blob/master/cfg/darknet53_448.cfg">cfg</a></td>
-<td><a href="https://pjreddie.com/media/files/darknet53_448.weights">159 MB</a></td>
+<td><a href="https://data.pjreddie.com/files/darknet53_448.weights">159 MB</a></td>
 </tr>
 </table>
 
-<script src='https://pjreddie.com/media/files/tablesort.js'></script>
+<link rel="stylesheet" href="/static/css/tablesort.css">
+
+<script src='/static/js/tablesort.js'></script>
 
 <!-- Include sort types you need -->
-<script src='https://pjreddie.com/media/files/tablesort.number.js'></script>
-<script src='https://pjreddie.com/media/files/tablesort.filesize.js'></script>
+<script src='/static/tablesort.number.js'></script>
+<script src='/static/tablesort.filesize.js'></script>
 
 <script>
   new Tablesort(document.getElementById('compare'));
@@ -401,7 +403,7 @@ The model that started a revolution! The [original](http://www.cs.toronto.edu/~f
 - Forward Timing: 3.1 ms/img
 - CPU Forward Timing: 0.29 s/img
 - [cfg file](https://github.com/pjreddie/darknet/blob/master/cfg/alexnet.cfg)
-- [weight file (238 MB)](http://pjreddie.com/media/files/alexnet.weights)
+- [weight file (238 MB)](http://data.pjreddie.com/files/alexnet.weights)
 
 ### <a name="reference"></a>Darknet Reference Model ###
 
@@ -412,7 +414,7 @@ This model is designed to be small but powerful. It attains the same top-1 and t
 - Forward Timing: 2.9 ms/img
 - CPU Forward Timing: 0.14 s/img
 - [cfg file](https://github.com/pjreddie/darknet/blob/master/cfg/darknet.cfg)
-- [weight file (28 MB)](http://pjreddie.com/media/files/darknet.weights)
+- [weight file (28 MB)](http://data.pjreddie.com/files/darknet.weights)
 
 ### <a name="vgg"></a>VGG-16 ###
 
@@ -423,7 +425,7 @@ The [Visual Geometry Group](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
 - Forward Timing: 9.4 ms/img
 - CPU Forward Timing: 4.36 s/img
 - [cfg file](https://github.com/pjreddie/darknet/blob/master/cfg/vgg-16.cfg)
-- [weight file (528 MB)](http://pjreddie.com/media/files/vgg-16.weights)
+- [weight file (528 MB)](http://data.pjreddie.com/files/vgg-16.weights)
 
 ### Extraction<a name="extraction"></a> ###
 
@@ -434,7 +436,7 @@ I developed this model as an offshoot of the [GoogleNet model](http://arxiv.org/
 - Forward Timing: 4.8 ms/img
 - CPU Forward Timing: 0.97 s/img
 - [cfg file](https://github.com/pjreddie/darknet/blob/master/cfg/extraction.cfg)
-- [weight file (90 MB)](http://pjreddie.com/media/files/extraction.weights)
+- [weight file (90 MB)](http://data.pjreddie.com/files/extraction.weights)
 
 ### Darknet19<a name="Darknet19"></a> ###
 
@@ -445,7 +447,7 @@ I modified the Extraction network to be faster and more accurate. This network w
 - Forward Timing: 6.2 ms/img
 - CPU Forward Timing: 0.87 s/img
 - [cfg file](https://github.com/pjreddie/darknet/blob/master/cfg/darknet19.cfg)
-- [weight file (80 MB)](http://pjreddie.com/media/files/darknet19.weights)
+- [weight file (80 MB)](http://data.pjreddie.com/files/darknet19.weights)
 
 ### Darknet19 448x448<a name="darknet19_448"></a> ###
 
@@ -456,7 +458,7 @@ I trained Darknet19 for 10 more epochs with a larger input image size, `448x448`
 - Forward Timing: 11.0 ms/img
 - CPU Forward Timing: 2.96 s/img
 - [cfg file](https://github.com/pjreddie/darknet/blob/master/cfg/darknet19_448.cfg)
-- [weight file (80 MB)](http://pjreddie.com/media/files/darknet19_448.weights)
+- [weight file (80 MB)](http://data.pjreddie.com/files/darknet19_448.weights)
 
 
 ### Resnet 50<a name="resnet50"></a> ###
@@ -468,7 +470,7 @@ For some reason people love these networks even though they are so sloooooow. Wh
 - Forward Timing: 11.4 ms/img
 - CPU Forward Timing: 1.13 s/img
 - [cfg file](https://github.com/pjreddie/darknet/blob/master/cfg/resnet50.cfg)
-- [weight file (87 MB)](https://pjreddie.com/media/files/resnet50.weights)
+- [weight file (87 MB)](https://data.pjreddie.com/files/resnet50.weights)
 
 ### Resnet 152<a name="resnet152"></a> ###
 
@@ -479,7 +481,7 @@ For some reason people love these networks even though they are so sloooooow. Wh
 - Forward Timing: 28.6 ms/img
 - CPU Forward Timing: 3.31 s/img
 - [cfg file](https://github.com/pjreddie/darknet/blob/master/cfg/resnet152.cfg)
-- [weight file (220 MB)](https://pjreddie.com/media/files/resnet152.weights)
+- [weight file (220 MB)](https://data.pjreddie.com/files/resnet152.weights)
 
 
 ### Densenet 201<a name="densenet201"></a> ###
@@ -491,4 +493,4 @@ I love DenseNets! They are just so deep and so crazy and work so well. Like Resn
 - Forward Timing: 32.6 ms/img
 - CPU Forward Timing: 1.38 s/img
 - [cfg file](https://github.com/pjreddie/darknet/blob/master/cfg/densenet201.cfg)
-- [weight file (67 MB)](https://pjreddie.com/media/files/densenet201.weights)
+- [weight file (67 MB)](https://data.pjreddie.com/files/densenet201.weights)
