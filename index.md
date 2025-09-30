@@ -37,7 +37,7 @@ Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing 
 
 <div class="paper">
 <h4>Who Let The Dogs Out? Modeling Dog Behavior From Visual Data</h4>
-<a class="button" href="/media/files/papers/1803.10827.pdf">PDF</a>
+<a class="button" href="/static/papers/1803.10827.pdf">PDF</a>
 <a class="button" href="https://arxiv.org/abs/1803.10827">arXiv</a>
 <p class="byline">Kiana Ehsani, Hessam Bagherinezhad, Joseph Redmon, Roozbeh Mottaghi, Ali Farhadi</p>
 <p class="code desc">CVPR 2018</p>
@@ -45,7 +45,7 @@ Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing 
 </div>
 <div class="paper">
 <h4>YOLOv3: An Incremental Improvement</h4>
-<a class="button" href="/media/files/papers/YOLOv3.pdf">PDF</a>
+<a class="button" href="/static/papers/YOLOv3.pdf">PDF</a>
 <a class="button" href="https://arxiv.org/abs/1804.02767">arXiv</a>
 <p class="byline">Joseph Redmon, Ali Farhadi</p>
 <p class="code desc">Tech report</p>
@@ -53,7 +53,7 @@ Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing 
 </div>
 <div class="paper">
 <h4>IQA: Visual Question Answering in Interactive Environments</h4>
-<a class="button" href="/media/files/papers/IQA.pdf">PDF</a>
+<a class="button" href="/static/papers/IQA.pdf">PDF</a>
 <a class="button" href="https://arxiv.org/abs/1712.03316">arXiv</a>
 <p class="byline">Daniel Gordon, Aniruddha Kembhavi, Mohammad Rastegari, Joseph Redmon, Dieter Fox, Ali Farhadi</p>
 <p class="code desc">CVPR 2018</p>
@@ -61,7 +61,7 @@ Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing 
 </div>
 <div class="paper">
 <h4>YOLO9000: Better, Faster, Stronger</h4>
-<a class="button" href="/media/files/papers/YOLO9000.pdf">PDF</a>
+<a class="button" href="/static/papers/YOLO9000.pdf">PDF</a>
 <a class="button" href="https://arxiv.org/abs/1612.08242">arXiv</a>
 <a class="button" href="/publications/yolo9000/">Reviews</a>
 <a class="button" href="https://docs.google.com/presentation/d/14qBAiyhMOFl_wZW4dA1CkixgXwf0zKGbpw_0oHK8yEM/edit?usp=sharing">Slides</a>
@@ -71,10 +71,10 @@ Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing 
 </div>
 <div class="paper">
 <h4>XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks</h4>
-<a class="button" href="/media/files/papers/xnor.pdf">PDF</a>
+<a class="button" href="/static/papers/xnor.pdf">PDF</a>
 <a class="button" href="http://arxiv.org/abs/1603.05279">arXiv</a>
 <a class="button" href="/publications/xnor/">Reviews</a>
-<a class="button" href="http://pjreddie.com/media/files/XNOR_ECCV2.pdf">Slides</a>
+<a class="button" href="http://pjreddie.com/static/XNOR_ECCV2.pdf">Slides</a>
 <a class="button" href="http://videolectures.net/eccv2016_rastegari_neural_networks/">Talk</a>
 <p class="byline">Mohammad Rastegari, Vicente Ordonez, Joseph Redmon, and Ali Farhadi</p>
 <p class="code desc">ECCV 2016</p>
@@ -82,7 +82,7 @@ Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing 
 </div>
 <div class="paper">
 <h4>You Only Look Once: Unified, Real-Time Object Detection</h4>
-<a class="button" href="/media/files/papers/yolo_1.pdf">PDF</a>
+<a class="button" href="/static/papers/yolo_1.pdf">PDF</a>
 <a class="button" href="http://arxiv.org/abs/1506.02640">arXiv</a>
 <a class="button" href="/publications/yolo/">Reviews</a>
 <a class="button" href="https://docs.google.com/presentation/d/1kAa7NOamBt4calBU9iHgT8a86RRHz9Yz2oh4-GTdX6M/edit?usp=sharing">Slides</a>
@@ -93,7 +93,7 @@ Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing 
 </div>
 <div class="paper">
 <h4>Real-Time Grasp Detection Using Convolutional Neural Networks</h4>
-<a class="button" href="/media/files/papers/grasp_detection_1.pdf">PDF</a>
+<a class="button" href="/static/papers/grasp_detection_1.pdf">PDF</a>
 <a class="button" href="http://arxiv.org/abs/1412.3128">arXiv</a>
 <a class="button" href="/publications/grasp-detection/">Reviews</a>
 <a class="button" href="https://docs.google.com/presentation/d/1Zc9-iR1eVz-zysinwb7bzLGC2no2ZiaD897_14dGbhw/edit?usp=sharing">Slides</a>
