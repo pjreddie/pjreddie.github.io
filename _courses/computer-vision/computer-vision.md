@@ -1,7 +1,7 @@
 ---
 title: The Ancient Secrets of Computer Vision
 description: "An introduction to computer vision."
-layout: default
+layout: courses
 permalink: /courses/computer-vision/
 ---
 <style>
