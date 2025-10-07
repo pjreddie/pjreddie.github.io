@@ -1,6 +1,8 @@
 collections:
     darknet:
         output: true
+    courses:
+        output: true
 defaults:
     -
         scope:
