@@ -36,7 +36,7 @@ background-repeat:repeat;
 }
 </style>
 
-![](title.png)
+![](title.jpg)
 
 ## Course Information ##
 
