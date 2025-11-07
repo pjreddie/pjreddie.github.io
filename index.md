@@ -36,6 +36,13 @@ Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing 
 # Publications 
 
 <div class="paper">
+<h4>OlmoEarth</h4>
+<a class="button" href="/static/papers/OlmoEarth.pdf">PDF</a>
+<p class="byline">OlmoEarth Team, Yawen Zhang, Gabriel Tseng, Joseph Redmon, Henry Herzog, Favyen Bastani, Et al.</p>
+<p class="code desc">Tech Report</p>
+<div class="break"></div>
+</div>
+<div class="paper">
 <h4>Who Let The Dogs Out? Modeling Dog Behavior From Visual Data</h4>
 <a class="button" href="/static/papers/1803.10827.pdf">PDF</a>
 <a class="button" href="https://arxiv.org/abs/1803.10827">arXiv</a>
