@@ -15,9 +15,23 @@ display:inline;
 <div class='blue bar'></div>
 </div>
 
+# Interested in AI for the Environment??
+
+I'm working on the OlmoEarth team at Ai2 building state-of-the-art AI for environmental and humanitarian groups.
+
+Platform: [OlmoEarth Platform](https://olmoearth.allenai.org)
+
+Project blog: [OlmoEarth](https://allenai.org/olmoearth)
+
+Technical blog: [OlmoEarth Models](https://allenai.org/blog/olmoearth-models)
+
+Tech report: [OlmoEarth](/static/papers/OlmoEarth.pdf)
+
+Github: [olmoearth_pretrain](https://github.com/allenai/olmoearth_pretrain)
+
 # Welcome to my website!
 
-I am a research scientist at [Ai2](https://allenai.org/) working on [machine learning for the environment](https://allenai.org/earth-system).
+I am a research scientist at [Ai2](https://allenai.org/) working on [machine learning for the environment](https://allenai.org/olmoearth).
 
 I was a graduate student advised by [Ali Farhadi](https://homes.cs.washington.edu/~ali/index.html). I work on computer vision.
 
