@@ -52,6 +52,7 @@ Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing 
 <div class="paper">
 <h4>OlmoEarth: Stable Latent Image Modeling for Multimodal Earth Observation</h4>
 <a class="button" href="/static/papers/OlmoEarth.pdf">PDF</a>
+<a class="button" href="https://arxiv.org/abs/2511.13655">arXiv</a>
 <p class="byline">Team OlmoEarth, Henry Herzog, Favyen Bastani, Yawen Zhang, Gabriel Tseng, Joseph Redmon, Et al.</p>
 <p class="code desc">Tech Report</p>
 <div class="break"></div>
