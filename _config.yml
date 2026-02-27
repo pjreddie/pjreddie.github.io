@@ -3,6 +3,10 @@ collections:
         output: true
     courses:
         output: true
+    projects:
+        output: true
+    publications:
+        output: true
 defaults:
     -
         scope:
@@ -11,3 +15,16 @@ defaults:
         values:
             layout: "darknet"
             order: 100
+    -
+        scope:
+            path: ""
+            type: "projects"
+        values:
+            layout: "projects"
+            order: 100
+    -
+        scope:
+            path: ""
+            type: "publications"
+        values:
+            layout: "publications"

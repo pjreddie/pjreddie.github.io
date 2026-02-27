@@ -95,7 +95,6 @@ Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing 
 <h4>XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks</h4>
 <a class="button" href="/static/papers/xnor.pdf">PDF</a>
 <a class="button" href="http://arxiv.org/abs/1603.05279">arXiv</a>
-<a class="button" href="/publications/xnor/">Reviews</a>
 <a class="button" href="http://pjreddie.com/static/XNOR_ECCV2.pdf">Slides</a>
 <a class="button" href="http://videolectures.net/eccv2016_rastegari_neural_networks/">Talk</a>
 <p class="byline">Mohammad Rastegari, Vicente Ordonez, Joseph Redmon, and Ali Farhadi</p>
