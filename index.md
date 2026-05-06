@@ -25,7 +25,7 @@ Project blog: [OlmoEarth](https://allenai.org/olmoearth)
 
 Technical blog: [OlmoEarth Models](https://allenai.org/blog/olmoearth-models)
 
-Tech report: [OlmoEarth](/static/papers/OlmoEarth.pdf)
+Paper (CVPR 2026): [OlmoEarth](/static/papers/OlmoEarth.pdf)
 
 Github: [olmoearth_pretrain](https://github.com/allenai/olmoearth_pretrain)
 
@@ -41,6 +41,8 @@ Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing 
 
 # Talks and teaching
 
+[The Real AI Alignment Problem](https://www.youtube.com/watch?v=KHzzf0tIwDM) - AI for Peace Workshop, ICLR 2026
+
 [The Ancient Secrets of Computer Vision](https://pjreddie.com/courses/computer-vision/) - University of Washington, Spring 2018
 
 [Computers can see. Now what?](https://www.youtube.com/watch?v=XS2UWYuh5u0) - TEDxGateway in Mumbai, India
@@ -54,7 +56,7 @@ Outside of computer science, I enjoy skiing, hiking, rock climbing, and playing 
 <a class="button" href="/static/papers/OlmoEarth.pdf">PDF</a>
 <a class="button" href="https://arxiv.org/abs/2511.13655">arXiv</a>
 <p class="byline">Team OlmoEarth, Henry Herzog, Favyen Bastani, Yawen Zhang, Gabriel Tseng, Joseph Redmon, Et al.</p>
-<p class="code desc">Tech Report</p>
+<p class="code desc">CVPR 2026</p>
 <div class="break"></div>
 </div>
 <div class="paper">
