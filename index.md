@@ -7,12 +7,33 @@ permalink: /
 #ponies img, #external img{
 display:inline;
 }
+.video-embed {
+position: relative;
+padding-bottom: 56.25%;
+height: 0;
+overflow: hidden;
+max-width: 100%;
+margin-bottom: 1em;
+}
+.video-embed iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
 </style>
 
 <div class=top>
 <h1 class="header">Joseph Chet Redmon</h1>
 <div class='green bar'></div>
 <div class='blue bar'></div>
+</div>
+
+# The Real AI Alignment Problem
+
+<div class="video-embed">
+<iframe src="https://www.youtube.com/embed/KHzzf0tIwDM" title="The Real AI Alignment Problem" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 # Interested in AI for the Environment??
