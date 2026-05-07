@@ -36,6 +36,22 @@ height: 100%;
 <iframe src="https://www.youtube.com/embed/KHzzf0tIwDM" title="The Real AI Alignment Problem" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+This was a talk I gave at the AI for Peace Workshop at ICLR 2026. The whole workshop was amazing and I want to give so much thanks to the organizers and other speakers. Having these kinds of discussions, especially at a large ML conference like ICLR, is super important and I hope there is a lot more of this in the future!
+
+[https://aiforpeaceworkshop.github.io](https://aiforpeaceworkshop.github.io)
+
+This talk summarizes a lot of thinking and investigation I did in the aftermath of leaving AI research after YOLOv3. None of these ideas are original or unique I'm just approximately parroting the thoughts of much smarter people. There's a lot of topics I touch on very lightly that are worth investigating more. If you're interested here's some starting points I'd recommend:
+
+- All of Einstein's writings (Ideas and Opinions is a good collection)
+- Manufacturing Consent by Herman and Chomsky (even though he's in the Epstein files, ugh, he has very good insights on power and influence)
+- Macroeconomics by Mitchell, Wray, and Watts
+- Raising Expectations (and Raising Hell) by Jane McAlevey
+- The 5-4 Podcast
+- Citations Needed Podcast with Nima Shirazi and Adam Johnson
+- Early episodes of the Current Affairs podcast until Nathan fired all the cool people (for trying to unionize, yikes)
+
+The slides can be found here: [https://docs.google.com/presentation/d/1WRA6e4Qj3Iqsj1oj2SUZdOSnVUYv5JUweqO886scOhw/edit?usp=sharing](https://docs.google.com/presentation/d/1WRA6e4Qj3Iqsj1oj2SUZdOSnVUYv5JUweqO886scOhw/edit?usp=sharing)
+
 # Interested in AI for the Environment??
 
 I'm working on the OlmoEarth team at Ai2 building state-of-the-art AI for environmental and humanitarian groups.
